@@ -24,12 +24,12 @@ Shopping cart app
 
 
 ### Run Client:
-$ cd client
-$ npm install
-$ npm run build
-$ cd ..
-$ npm run start
+$ cd client  
+$ npm install  
+$ npm run build  
+$ cd ..  
+$ npm run start  
 ### Run Server:
-$ cd server
-$ npm install
-$ node server
+$ cd server  
+$ npm install  
+$ node server  
